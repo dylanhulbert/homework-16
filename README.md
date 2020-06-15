@@ -7,6 +7,7 @@ The objective of this homework was to create a personal project portfolio using 
 ## Technologies
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
+* [MongoDB]
 * [Material Design for Bootstrap](https://mdbootstrap.com/docs/react/)
 
 ## Application
