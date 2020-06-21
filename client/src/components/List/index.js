@@ -1,12 +1,13 @@
 import React from "react";
-import "./style.css";
 
-// This file exports both the List and ListItem components
+const divStyle = {
+  fontSize: 'Arial, Helvetica, sans-serif',
+};
 
 export function List({ children }) {
   return (
     <div className="list-overflow-container">
-      <ul className="list-group">{children}</ul>
+      <ul className="list-group text-primary" style={divStyle}>{children}</ul>
     </div>
   );
 }
