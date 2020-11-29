@@ -4,6 +4,8 @@ I created the contents of this repo as homework for my Bootcamp at UofO
 ## Homework 16: Google Book Search
 The objective of this homework was to create a React-based Google Books Search app with helper/util functions, and using React lifecycle methods to query and display books based on a users search.  It also used Node, Express and MongoDB so that users can save books.
 
+11/28/20 - Updated MongoDB location, from mLab to [Atlas](https://www.mongodb.com/cloud/atlas).
+
 ## Technologies
 * [React](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
